@@ -40,7 +40,7 @@ export default async function handler(req, res) {
           "Content-Type": "application/json"
         },
         body: JSON.stringify({
-          version: "VERSION_ID_DE_IDM_VTON",
+          version: "0513734a452173b8173e907e3a59d19a36266e55b48528559432bd21c7d7e985",
           input: {
             human_img: userImage,
             garm_img: clothImage
